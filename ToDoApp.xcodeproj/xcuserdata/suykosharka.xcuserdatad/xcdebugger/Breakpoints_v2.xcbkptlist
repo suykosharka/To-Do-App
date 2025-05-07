@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C25B626E-3952-49E6-867B-39ABEBC5A210"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED660B81-FA3B-4A65-B493-F649096461AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC+FireBase TestApp/Models/Item.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Item"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ED660B81-FA3B-4A65-B493-F649096461AB - 2f4887c272dcb185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_FireBase_TestApp.Item.__allocating_init(timestamp: Foundation.Date) -&gt; MVC_FireBase_TestApp.Item"
+                  moduleName = "MVC+FireBase TestApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suykosharka/Documents/MVC+FireBase%20TestApp/MVC+FireBase%20TestApp/Models/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "ED660B81-FA3B-4A65-B493-F649096461AB - c88abc1dc1679c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_FireBase_TestApp.Item.init(timestamp: Foundation.Date) -&gt; MVC_FireBase_TestApp.Item"
+                  moduleName = "MVC+FireBase TestApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/8q/75v0_n2s0cn4wpgksctb2m180000gn/T/-15be7f.@__swiftmacro_20MVC_FireBase_TestApp4Item5ModelfMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2"
+                  endingLineNumber = "2">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
